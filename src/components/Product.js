@@ -18,7 +18,7 @@ export default class Product extends Component {
               >
                 <Link to="/details">
                   <img
-                    src={{ URL: img }}
+                    src="https://m.media-amazon.com/images/I/81-fNmQqlLL._SL1500_.jpg"
                     alt="product"
                     className="card-img-top"
                   />
